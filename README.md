@@ -2,7 +2,7 @@
 
 sqrt(-1)abi Project. / Scarecrow project
 
-### [Wiki of this game](https://github.com/amajohn/sqrt-1/wiki) 
+### [게임 룰 보러가기 (Wiki)](https://github.com/amajohn/sqrt-1/wiki) 
 
 ## [Download latest version 0.1.3c](https://github.com/amajohn/sqrt-1/raw/master/Builds/Sqrt-1_0.1.3_c.apk)
 Last updated 22 Feb 2019 17:27
