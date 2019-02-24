@@ -4,6 +4,8 @@ sqrt(-1)abi Project. / Scarecrow project
 
 ### [게임 룰 보러가기 (Wiki)](https://github.com/amajohn/sqrt-1/wiki) 
 
+### [버그 리포트 작성하기 (Bug Report)](https://github.com/amajohn/sqrt-1/issues)
+
 ## [Download latest version 0.1.4c](https://github.com/amajohn/sqrt-1/raw/master/Builds/Sqrt-1_0.1.4c_rc1.apk)
 Last updated 22 Feb 2019 17:27
 
