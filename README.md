@@ -6,16 +6,12 @@ sqrt(-1)abi Project. / Scarecrow project
 
 ### [버그 리포트 작성하기 (Bug Report)](https://github.com/amajohn/sqrt-1/issues)
 
-## [Download latest version 0.1.4c](https://github.com/amajohn/sqrt-1/raw/master/Builds/Sqrt-1_0.1.4c_rc1.apk)
-Last updated 22 Feb 2019 17:27
+이제 Google Play Store에서 내부 테스트를 진행합니다. 더 이상 여기에서 다운로드 할 수 없습니다. 
 
-Known issues :
- - 현재 멀티플레이어 대전에서 점수가 올바르게 계산되지 않는 버그가 확인 중에 있습니다.
-
-What's new in 0.1.4c :
- - 온라인 멀티플레이어 기능이 추가되었습니다! 방을 만들고 들어갈 수 있습니다.
- - 이제 승패 통계가 모드별로 집계됩니다. 의미 있는 통계 집계를 위해 업데이트를 권장합니다.
-  - Pass n Play 모드로 다시 들어갔을 때 올바르게 작동하지 않던 문제를 수정했습니다.
- - 기타 버그 수정 및 최적화
+내부 테스트 등록 방법 :
+내부 테스트는 지인들을 위주로 진행하고 있습니다. 
+1. 저희 개인 카카오톡으로 구글 계정 이메일을 보냅니다. 
+2. 만약 플레이스토어 버전이 아닌 구 버전 앱이 있다면 삭제합니다. 
+3. 받은 테스트 링크로 들어가 설치합니다.
  
 (C) 2019 Amajohn Games
