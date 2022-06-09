@@ -1,4 +1,4 @@
-# sqrt-1
+# 고라니 게임
 
 sqrt(-1)abi Project. / Scarecrow project
 
