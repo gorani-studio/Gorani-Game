@@ -1,6 +1,6 @@
 # 고라니 게임
 
-sqrt(-1)abi / Project Scarecrow
+sqrt(-1)abi. Project Scarecrow
 
 ### [게임 위키 (Wiki)](https://github.com/amajohn/sqrt-1/wiki) 
 
@@ -14,4 +14,4 @@ sqrt(-1)abi / Project Scarecrow
 2. 만약 플레이스토어 버전이 아닌 구 버전 앱이 있다면 삭제합니다.
 3. 받은 테스트 링크로 들어가 설치합니다.
  
-(C) 2022 Amajohn Games
+(C) 2022 Gorani Studio
